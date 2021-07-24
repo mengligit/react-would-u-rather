@@ -1,0 +1,222 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.avatar {
+  height: 50px;
+  border-radius: 25px;
+  margin: 15px;
+}
+
+.menuAvatar {
+  height: 36px;
+  border-radius: 18px;
+  
+}
+
+.bigAvatar {
+  height: 70px;
+  border-radius: 35px;
+  margin: 15px;
+}
+
+.resultAvatar {
+  height: 100px;
+  border-radius: 50px;
+  margin: 15px;
+  
+}
+
+.signInAvatar {
+  height: 100px;
+  margin: 15px;
+  
+}
+
+.vl {
+  border-right: 1px solid lightgray;
+  margin: 5px 20px 5px 10px;
+}
+
+.longVl {
+  border-right: 1px solid lightgray;
+  height: 80px;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 20px;
+}
+
+.resultVl {
+  border-right: 1px solid lightgray;
+  margin: 10px 0px 10px 0px;
+}
+
+.container {
+  border: 1px solid lightgray;
+  margin: 5px
+}
+
+.pollContainer {
+  border: 1px solid lightgray;
+  margin: 5px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.resultContainer {
+  border: 1px solid lightgray;
+  margin: 5px;
+  margin-left: 32%;
+  margin-right: 32%;
+}
+
+.navContainer {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 10px;
+}
+
+.leaderElementContainer {
+  border: 1px solid lightgray;
+  margin: 5px;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+.flexContainer {
+  display: flex;
+}
+
+.leaderContainer {
+  padding: 10px;
+}
+
+.title {
+  padding: 10px;
+  background-color: lightgray;
+}
+
+.title2 {
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
+  border-bottom: 1px solid rgb(221, 216, 216);
+}
+
+.title3 {
+  padding: 10px;
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: lightgray;
+  text-align: center;
+}
+
+.board {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.buttonDiv {
+  margin-top: 5px;
+}
+.brief {
+  overflow: hidden; 
+  text-overflow: ellipsis;
+  white-space:nowrap;
+  width: 40%;
+
+}
+
+.bold {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.leftDiv {
+	display:flex;
+  justify-content:center;
+  align-items:center;
+
+}
+
+.createQuestionOption {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-bottom: 10px;
+}
+
+.centerContainer {
+  display:flex;
+  justify-content:center;
+  align-items:center; 
+}
+.invalidContainer {
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 20px;
+  align-items:center;
+  text-align: center;
+}
+
+.rightDiv {
+  padding: 10px
+}
+
+.largeText {
+  font-size: 16px;
+}
+
+.selected {
+  background-color: rgb(217, 241, 217);
+  margin: 10px 0px 10px 0px;
+  padding: 20px 30px 20px 30px;
+  align-items:center;
+  text-align: center;
+  border: 1px solid green;
+}
+
+.signinContainer {
+  margin-left: 30%;
+  margin-right: 30%;
+  padding: 20px;
+  align-items:center;
+  text-align: center;
+  border: 1px solid lightgray;
+}
+
+.unSelected {
+  background-color:rgb(253, 255, 253);
+  margin: 10px 0px 10px 0px;
+  padding: 20px 30px 20px 30px;
+  align-items:center;
+  text-align: center;
+  border: 1px solid lightgray;
+}
+
+.score {
+  background-color: rgb(241, 236, 236);
+  padding: 10px 20px 10px 20px;
+  margin-top: 5px;
+}
+
+.scoreValue {
+  border: 1px solid rgb(221, 216, 216);
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.signInButton {
+  margin-top: 20px;
+}
