@@ -4,6 +4,9 @@
 
 It's built with React, Redux, React Router, Redux Thunk, and Semantic UI React.
 
+## Demo
+![image](docs/images/dmo.gif )
+
 ## Screenshots
 
 ![screenshot #1](docs/images/screen3_small.png)
