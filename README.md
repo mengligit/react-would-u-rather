@@ -7,11 +7,7 @@ It's built with React, Redux, React Router, Redux Thunk, and Semantic UI React.
 ## Live Demo
 ![image](https://github.com/mengligit/react-would-u-rather/blob/main/docs/images/demo.gif)
 
-## Screenshots
 
-![screenshot #1](docs/images/screen3_small.png)
-![screenshot #2](docs/images/screen1_small.png)
-![screenshot #3](docs/images/screen2_small.png)
 
 ## Installation
 
@@ -33,4 +29,11 @@ The project can be viewed in the browser at
 
 - [http://localhost:3000](http://localhost:3000)
 
+
+
+## Screenshots
+
+![screenshot #1](docs/images/screen3_small.png)
+![screenshot #2](docs/images/screen1_small.png)
+![screenshot #3](docs/images/screen2_small.png)
 
