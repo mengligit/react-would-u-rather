@@ -5,7 +5,7 @@
 It's built with React, Redux, React Router, Redux Thunk, and Semantic UI React.
 
 ## Demo
-![image](docs/images/dmo.gif )
+![image](https://github.com/mengligit/react-would-u-rather/blob/main/docs/images/demo.gif)
 
 ## Screenshots
 
